@@ -1,0 +1,22 @@
+{
+  "name": "the-polling-bot",
+  "version": "0.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "lsc -k main.ls",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GingerPlusPlus <woj.pawliK@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "livescript": "^1.5.0",
+    "mongoose": "^4.6.8",
+    "node-telegram-bot-api": "^0.24.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/GingerPlusPlus/the-polling-bot.git"
+  }
+}
